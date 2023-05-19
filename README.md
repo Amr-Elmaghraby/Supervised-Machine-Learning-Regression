@@ -40,6 +40,6 @@ Feel free to explore the implementations, experiment with different datasets and
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code in this repository for both commercial and non-commercial purposes. See the [LICENSE](LICENSE) file for more details.
+This repository is licensed under the [MIT License](https://github.com/Amr-Elmaghraby/Supervised-Machine-Learning-Regression/blob/main/License.md). You are free to use, modify, and distribute the code in this repository for both commercial and non-commercial purposes. See the [LICENSE](https://github.com/Amr-Elmaghraby/Supervised-Machine-Learning-Regression/blob/main/License.md) file for more details.
 
 Happy exploring and building predictive models with supervised machine learning regression!
